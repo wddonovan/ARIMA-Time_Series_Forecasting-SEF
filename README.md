@@ -1,2 +1,2 @@
 # SEF-ARIMA-Forecasting
-Load forecasting at SEF microgrid using statistical approaches.
+ARIMA (Autoregressive integrated moving average) forecasting of SEF time-series data 
