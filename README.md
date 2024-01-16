@@ -1,2 +1,2 @@
 # ARIMA-Forecasting
-ARIMA (Autoregressive integrated moving average) forecasting of SEF time-series data 
+Statistical time-series forecasting on micro-grid data
